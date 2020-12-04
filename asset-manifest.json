@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MemeFaceOverlay/static/css/main.0000fbbc.chunk.css",
+    "main.js": "/MemeFaceOverlay/static/js/main.f5f1f778.chunk.js",
+    "main.js.map": "/MemeFaceOverlay/static/js/main.f5f1f778.chunk.js.map",
+    "runtime-main.js": "/MemeFaceOverlay/static/js/runtime-main.3ae45175.js",
+    "runtime-main.js.map": "/MemeFaceOverlay/static/js/runtime-main.3ae45175.js.map",
+    "static/css/2.31461e4f.chunk.css": "/MemeFaceOverlay/static/css/2.31461e4f.chunk.css",
+    "static/js/2.ef348dc4.chunk.js": "/MemeFaceOverlay/static/js/2.ef348dc4.chunk.js",
+    "static/js/2.ef348dc4.chunk.js.map": "/MemeFaceOverlay/static/js/2.ef348dc4.chunk.js.map",
+    "static/js/3.3c60f198.chunk.js": "/MemeFaceOverlay/static/js/3.3c60f198.chunk.js",
+    "static/js/3.3c60f198.chunk.js.map": "/MemeFaceOverlay/static/js/3.3c60f198.chunk.js.map",
+    "index.html": "/MemeFaceOverlay/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/MemeFaceOverlay/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0000fbbc.chunk.css.map": "/MemeFaceOverlay/static/css/main.0000fbbc.chunk.css.map",
+    "static/js/2.ef348dc4.chunk.js.LICENSE.txt": "/MemeFaceOverlay/static/js/2.ef348dc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ae45175.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.ef348dc4.chunk.js",
+    "static/css/main.0000fbbc.chunk.css",
+    "static/js/main.f5f1f778.chunk.js"
+  ]
+}
